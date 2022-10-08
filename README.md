@@ -23,4 +23,3 @@ Include a list of the tools used in the project:
 * [Tools](#tools)
 * [Installation Instructions](#installation_instructions)
 * [Contact Information](#contact)
-* 
